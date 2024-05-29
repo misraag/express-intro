@@ -1,0 +1,1 @@
+Here is merged text from both files First text file, Second text file
